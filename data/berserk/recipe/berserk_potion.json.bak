@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" A ",
+		" N ",
+		" W "
+	],
+	"key": {
+		"A": {
+			"item": "minecraft:amethyst_shard"
+		},
+		"N": {
+			"item": "minecraft:nether_wart"
+		},
+		"W": {
+			"item": "minecraft:potion",
+			"components": {
+				"minecraft:potion_contents": {
+					"potion": "minecraft:water"
+				}
+			}
+		}
+	},
+	"result": {
+		"components": {
+			"minecraft:potion_contents": {
+				"custom_color": 13061821
+			},
+			"minecraft:custom_name": "{\"text\":\"Berserk Potion\"}",
+			"minecraft:custom_data": {
+				"berserk_potion": 1
+			}
+		},
+		"count": 1,
+		"id": "minecraft:potion"
+	}
+}

@@ -1,0 +1,1 @@
+give @s potion[potion_contents={custom_color:13061821},custom_name='[{"text":"Berserk Potion","italic":false}]',custom_data={berserk_potion:1b}]

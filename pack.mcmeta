@@ -1,0 +1,20 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": [
+			{
+				"text": "Berserk Potion\n",
+				"color": "#ff8080",
+				"bold": true
+			},
+			{
+				"text": "Reward an impulsive playstyle with some survivability!\n",
+				"color": "#808080"
+			},
+			{
+				"text": "Datapack by Sensei Shisha\n",
+				"color": "#ff9060"
+			}
+		]
+	}
+}

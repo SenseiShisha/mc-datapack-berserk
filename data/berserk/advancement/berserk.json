@@ -1,0 +1,20 @@
+{
+	"criteria": {
+		"consume_berserk": {
+			"trigger": "minecraft:consume_item",
+			"conditions": {
+				"item": {
+					"items": "minecraft:potion",
+					"components": {
+						"minecraft:custom_data": {
+							"berserk_potion": 1
+						}
+					}
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "berserk:activate_berserk"
+	}
+}

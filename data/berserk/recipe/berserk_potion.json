@@ -1,0 +1,35 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:gold_nugget"
+		},
+		{
+			"item": "minecraft:nether_wart"
+		},
+		{
+			"item": "minecraft:potion",
+			"components": {
+				"minecraft:potion_contents": {
+					"potion": "minecraft:water"
+				}
+			}
+		},
+		{
+			"item": "minecraft:redstone"
+		}
+	],
+	"result": {
+		"components": {
+			"minecraft:potion_contents": {
+				"custom_color": 11272192
+			},
+			"minecraft:custom_name": "{\"text\":\"Berserk Potion\"}",
+			"minecraft:custom_data": {
+				"berserk_potion": 1
+			}
+		},
+		"count": 1,
+		"id": "minecraft:potion"
+	}
+}
